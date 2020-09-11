@@ -66,6 +66,9 @@ __meta__ = {
 margin_right = 1024.0
 margin_bottom = 40.0
 color = Color( 0, 0, 0, 0.25098 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Time" type="Label" parent="HUD"]
 margin_left = 8.0
